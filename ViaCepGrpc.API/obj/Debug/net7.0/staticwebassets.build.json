@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qkymniZbhf2tFYV7fJ04wP5xt3ZII9nWIfXoBsHuGjg=",
+  "Source": "ViaCepGrpc.API",
+  "BasePath": "_content/ViaCepGrpc.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

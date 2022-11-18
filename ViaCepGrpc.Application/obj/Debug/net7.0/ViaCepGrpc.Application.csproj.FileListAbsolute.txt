@@ -1,0 +1,17 @@
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\bin\Debug\net7.0\ViaCepGrpc.Application.deps.json
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\bin\Debug\net7.0\ViaCepGrpc.Application.dll
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\bin\Debug\net7.0\ViaCepGrpc.Application.pdb
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\bin\Debug\net7.0\ViaCepGrpc.IoC.dll
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\bin\Debug\net7.0\ViaCepGrpc.Services.dll
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\bin\Debug\net7.0\ViaCepGrpc.IoC.pdb
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\bin\Debug\net7.0\ViaCepGrpc.Services.pdb
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.csproj.AssemblyReference.cache
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.AssemblyInfoInputs.cache
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.AssemblyInfo.cs
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.csproj.CoreCompileInputs.cache
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.csproj.CopyComplete
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.dll
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\refint\ViaCepGrpc.Application.dll
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ViaCepGrpc.Application.pdb
+C:\www\ViaCepGrpc.Client\ViaCepGrpc.Application\obj\Debug\net7.0\ref\ViaCepGrpc.Application.dll
